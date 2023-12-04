@@ -1,0 +1,19 @@
+{
+    "awards": [
+        {
+            "year": 2022,
+            "name": "Green Innovator of the Year",
+            "company": "Eco Warrior Digest"
+        },
+        {
+            "year": 2021,
+            "name": "Partnership with Unicef",
+            "company": "Unicef"
+        },
+        {
+            "year": 2020,
+            "name": "Adoption of TerraCharge™ Pathways by 20 Major City Parks",
+            "company": "TerraCharge"
+        }
+    ]
+}
